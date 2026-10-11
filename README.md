@@ -57,7 +57,6 @@ a.   KVL:
 <img width="960" height="540" alt="{EC879EFD-033E-4646-AC8B-7516E191B58C}" src="https://github.com/user-attachments/assets/836cccae-86e1-46b1-9af9-6718bc447b0a" />
 
 
-
 b.  KCL:
  <img width="960" height="540" alt="{D42872F5-C097-4125-BD87-170ABBDAEB25}" src="https://github.com/user-attachments/assets/49851ff1-5488-4fea-8314-b1abbb71df02" /> 
 <img width="960" height="540" alt="{777C38C5-7CE1-493A-8671-FBE7B042019F}" src="https://github.com/user-attachments/assets/426b7319-bc18-4c9e-a50c-81203a15216e" />
@@ -65,22 +64,16 @@ b.  KCL:
 Calculation:
 
 a.  KVL:
-
 <img width="1000" height="1080" alt="WhatsApp Image 2026-10-04 at 12 35 16 PM" src="https://github.com/user-attachments/assets/f64965cf-db4c-4b91-98c1-04d2011030ea" />
 
-
-
 b.  KCL:
-
 <img width="1488" height="1282" alt="WhatsApp Image 2026-10-04 at 1 34 42 PM" src="https://github.com/user-attachments/assets/9bd24bb8-50fc-4384-98a9-9c85bda97d27" />
-
-
 
 
 Tabulation:
 
 a.   KVL:
- | S.No | Parameter | Theoretical Value | Practical / Simulated Value |
+| S.No | Parameter | Theoretical Value | Practical / Simulated Value |
 | :---: | :--- | :---: | :---: |
 | 1 | Supply Voltage (Vs) | 100 V | 100 V |
 | 2 | Total Current (I) | 1.0 A | 1.0 A |
